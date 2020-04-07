@@ -1,2 +1,4 @@
 # Final-Project-IANNWTF
-Here we upload our final project for the course "Implementing Artificial Neural Networks with TensorFlow"
+
+Here we upload our final project for the course "Implementing Artificial Neural Networks with TensorFlow"!
+Bli bla blub, let's test commiting changes!
