@@ -16,4 +16,4 @@ Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Jonathon Shlens,
 Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker,
 Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viégas,
 Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke,
-Yuan Yu, and Xiaoqiang Zheng. Tensorflow: Neural Style Transfer, (2020). Software available from tensorflow.org.
+Yuan Yu, and Xiaoqiang Zheng. Tensorflow: Neural Style Transfer, (2018). Software available from tensorflow.org.
